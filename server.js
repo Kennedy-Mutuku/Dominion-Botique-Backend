@@ -13,7 +13,7 @@ app.use(express.json());
 
 // Routes
 app.get('/', (req, res) => {
-  res.send('Nyakoe Boutique API is running...');
+  res.send('Nyakoe Fassions API is running...');
 });
 
 // Mock Auth Route for now
